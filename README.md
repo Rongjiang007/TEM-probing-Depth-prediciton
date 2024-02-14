@@ -12,7 +12,7 @@ To run the code on a Linux system simply
 python predi.py
 
 
-If you need to training a new model, and you may down load the training data form https://zenodo.org/records/10656048
+If you need to training a new model, and you may download the training data from https://zenodo.org/records/10656048
 ************************************************************************
                      Input and output format     
 ************************************************************************
