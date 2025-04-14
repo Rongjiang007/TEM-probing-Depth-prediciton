@@ -29,4 +29,6 @@ and the second dimension represents the distribution of predicted depths, with t
 
 Reference:
 Gan, L., Tang, R., Li, F., & Shen, F. (2024). A Deep learning estimation for probing Depth of Transient Electromagnetic Observation. Applied Sciences, 14(16), 7123.
+
+
 Tang, R., Gan, L., Li, F., & Shen, F. (2023). A Deep learning estimation for probing Depth of Transient Electromagnetic Observation. Authorea Preprints.
